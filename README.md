@@ -70,7 +70,7 @@
 5. Create a git repository in GITHUB an push code to github.
 6. Deploy project using RENDER
 
-# FRONTEND DEPLOYMENT:
+# FRONTEND DEPLOYMENT: url:https://claw-frontend-bh33.vercel.app/signin
 1. change directory to claw-assignment
 2. create react project npx create-react-app project-name
 3. install necessary dependencies...
